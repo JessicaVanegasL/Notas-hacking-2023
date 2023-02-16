@@ -25,7 +25,7 @@ bandit0@bandit:~$
 | ls |  Lista archivos |
 | cat |  Muestra contenido |
 | clear |  Borra el contenido de la pantalla  |
-| pwd |  Mustra la ruta del directorio actual  |
-| whoami |  Mustra el nombre de usuario  |
+| pwd |  Muestra la ruta del directorio actual  |
+
 
 ## Referencias

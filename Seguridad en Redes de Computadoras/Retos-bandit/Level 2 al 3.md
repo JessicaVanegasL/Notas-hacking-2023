@@ -35,7 +35,7 @@ Para leer el contenido de un archivo  se puede leer incluyendo comillas " " o ut
 |------------|-------------|
 | ls |  Lista archivos |
 | ls -la |  Lista archivos con formato, incluye archivos ocultos  |
-| pwd |  Mustra la ruta del directorio actual  |
+| pwd |  Muestra la ruta del directorio actual  |
 
 ## Referencias
 [https://linuxhint.com/reference-filename-with-spaces-linux/]

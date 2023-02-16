@@ -41,15 +41,11 @@ bandit4@bandit:~/inhere$
 ```
 ## Notas adicionales
 
-file identifica el tipo de archivo
-******comodin que significa todo*
-? comodin para sustituir solo una posicion: file ./-file0?
-
 | Comando | Descripción |
 |------------|-------------|
 | ls |  Lista archivos |
 | ls -la |  Lista archivos con formato, incluye archivos ocultos  |
-| pwd |  Mustra la ruta del directorio actual  |
+| pwd |  Muestra la ruta del directorio actual  |
 | file |  Identifica el tipo de archivo |
 | * |  Comodin que significa todo  |
 | ? |  Comodin para sustituir solo una posición: file ./-file0?  |

@@ -33,8 +33,8 @@ Para leer el contenido de un archivo se definide con un "-" al inicio y para lee
 |------------|-------------|
 | ls |  Lista archivos |
 | cat |  Muestra contenido |
-| pwd |  Mustra la ruta del directorio actual  |
-| whoami |  Mustra el nombre de usuario  |
+| pwd |  Muestra la ruta del directorio actual  |
+| whoami |  Muestra el nombre de usuario  |
 
 ## Referencias
 -   [Google Search for “dashed filename”](https://www.google.com/search?q=dashed+filename)
