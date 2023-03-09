@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "827afad1450891fc",
+        "id": "c4e4e06293ac3b06",
         "type": "tabs",
         "children": [
           {
-            "id": "31b67d906d9dd5fb",
+            "id": "0507f56095a6d513",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parcial I/PicoMini 2022/09-PW Crack 3.md",
+                "file": "Retos-Web/06-Client-side-again.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Parcial I/PicoMini 2022/09-PW Crack 3.md",
+                "file": "Retos-Web/06-Client-side-again.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Parcial I/PicoMini 2022/09-PW Crack 3.md",
+                "file": "Retos-Web/06-Client-side-again.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Parcial I/PicoMini 2022/09-PW Crack 3.md"
+                "file": "Retos-Web/06-Client-side-again.md"
               }
             }
           }
@@ -146,17 +146,37 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "31b67d906d9dd5fb",
+  "active": "0507f56095a6d513",
   "lastOpenFiles": [
+    "Client-side-again.png",
+    "Inspect Me.png",
+    "Pasted image 20230309094415.png.md",
+    "Retos-Web/06-Client-side-again.md",
+    "Pasted image 20230309094415.png",
+    "Pasted image 20230309091932.png",
+    "Pasted image 20230309091614.png",
+    "Pasted image 20230309090117.png",
+    "Pasted image 20230309084821.png",
+    "Pasted image 20230309084218.png",
+    "Pasted image 20230309083547.png",
+    "Pasted image 20230309083509.png",
+    "Retos-Web/04-dont-use-client-side.md",
+    "Retos-Web/03-logon.md",
+    "Retos-Web/02-where are the robots.md",
+    "Retos-Web/01-Insp3ct0r.md",
+    "Pasted image 20230309083517.png",
+    "Retos-Web/05-picobrowser.md",
+    "Parcial I/Pico CTF 2019/01-Lets Warm Up.md",
+    "Parcial I/PicoMini 2022/01-runme.py.md",
+    "Parcial I/PicoMini 2022/09-PW Crack 3.md",
+    "Retos-Web",
     "Parcial I/PicoMini 2022/08-PW Crack 2.md",
     "Parcial I/PicoMini 2022/07-PW Crack 1.md",
     "Parcial I/PicoMini 2022/06-Glitch Cat.md",
     "Parcial I/PicoMini 2022/04-fixme1.py.md",
     "Parcial I/PicoMini 2022/05-fixme2.py.md",
-    "Parcial I/PicoMini 2022/09-PW Crack 3.md",
     "Parcial I/PicoMini 2022/03-Codebook.md",
     "Parcial I/PicoMini 2022/02-convertme.py.md",
-    "Parcial I/PicoMini 2022/01-runme.py.md",
     "Parcial I/Pico CTF 2021/06-Magikarp Ground Mission.md",
     "Parcial I/Pico CTF 2021/05-Tab, Tab, Attack.md",
     "Parcial I/Pico CTF 2021/04-Static ain't always noise.md",
@@ -165,15 +185,6 @@
     "pico.png.md",
     "Parcial I/Pico CTF 2021/02-Wave a flag.md",
     "Parcial I/Pico CTF 2021/01-Obedient Cat.md",
-    "Parcial I/Pico CTF 2019/09-plumbing.md",
-    "Parcial I/Pico CTF 2019/08-Based.md",
-    "Parcial I/Pico CTF 2019/05-strings it.md",
-    "Parcial I/Pico CTF 2019/07-First Grep.md",
-    "Parcial I/Pico CTF 2019/06-Bases.md",
-    "Parcial I/Pico CTF 2019/03-2Warm.md",
-    "Parcial I/Pico CTF 2019/02-Warmed Up.md",
-    "Parcial I/Pico CTF 2019/01-Lets Warm Up.md",
-    "Parcial I/Parcial I/Pico CTF 2019/01-Lets Warm Up.md",
     "Parcial I/PicoMini 2022",
     "Parcial I/Pico CTF 2021",
     "Parcial I/Pico CTF 2019",
@@ -182,7 +193,6 @@
     "Parcial I/Parcial I/Pico CTF 2021",
     "Parcial I/Parcial I",
     "Parcial I",
-    "Parcial I.tar.gz",
-    "Parcial I.zip"
+    "Parcial I.tar.gz"
   ]
 }
