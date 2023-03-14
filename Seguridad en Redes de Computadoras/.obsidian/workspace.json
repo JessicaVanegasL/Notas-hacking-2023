@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c4e4e06293ac3b06",
+        "id": "0d831700b30df3a4",
         "type": "tabs",
         "children": [
           {
-            "id": "0507f56095a6d513",
+            "id": "d5434588d59d543d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos-Web/06-Client-side-again.md",
+                "file": "Retos-web parte 2/04-JaWT Scratchpad.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos-Web/06-Client-side-again.md",
+                "file": "Retos-web parte 2/04-JaWT Scratchpad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos-Web/06-Client-side-again.md",
+                "file": "Retos-web parte 2/04-JaWT Scratchpad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos-Web/06-Client-side-again.md"
+                "file": "Retos-web parte 2/04-JaWT Scratchpad.md"
               }
             }
           }
@@ -140,31 +140,37 @@
     "hiddenItems": {
       "switcher:Abrir quick switcher": false,
       "graph:Abrir vista de gráfico": false,
-      "canvas:Create new canvas": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "canvas:Create new canvas": false
     }
   },
-  "active": "0507f56095a6d513",
+  "active": "d5434588d59d543d",
   "lastOpenFiles": [
+    "jess",
+    "Retos-web parte 2/03-Irish name repo 3.md",
+    "Retos-web parte 2/04-JaWT Scratchpad.md",
+    "Retos-web parte 2/02-Irish-Name-Repo 2.md",
+    "Retos-web parte 2/01-Irish-Name-Repo 1.md",
+    "Retos-Web/02-where are the robots.md",
+    "Retos-Web/01-Insp3ct0r.md",
+    "Retos-Web/06-Client-side-again.md",
+    "Retos-web parte 2",
+    "Retos-Web.zip",
     "Retos-Web/Client-side-again.png",
     "Retos-Web/Inspect Me.png",
     "Client-side-again.png",
     "Inspect Me.png",
     "Pasted image 20230309094415.png.md",
-    "Retos-Web/06-Client-side-again.md",
     "Pasted image 20230309094415.png",
     "Pasted image 20230309091932.png",
     "Pasted image 20230309091614.png",
     "Pasted image 20230309090117.png",
     "Pasted image 20230309084821.png",
     "Pasted image 20230309084218.png",
-    "Pasted image 20230309083547.png",
     "Retos-Web/04-dont-use-client-side.md",
     "Retos-Web/03-logon.md",
-    "Retos-Web/02-where are the robots.md",
-    "Retos-Web/01-Insp3ct0r.md",
     "Retos-Web/05-picobrowser.md",
     "Parcial I/Pico CTF 2019/01-Lets Warm Up.md",
     "Parcial I/PicoMini 2022/01-runme.py.md",
@@ -181,18 +187,12 @@
     "Parcial I/Pico CTF 2021/05-Tab, Tab, Attack.md",
     "Parcial I/Pico CTF 2021/04-Static ain't always noise.md",
     "Parcial I/Pico CTF 2021/03-Nice netcat....md",
-    "Parcial I/Pico CTF 2019/04-what's a net cat.md",
-    "pico.png.md",
-    "Parcial I/Pico CTF 2021/02-Wave a flag.md",
-    "Parcial I/Pico CTF 2021/01-Obedient Cat.md",
     "Parcial I/PicoMini 2022",
     "Parcial I/Pico CTF 2021",
     "Parcial I/Pico CTF 2019",
     "Parcial I/Parcial I/PicoMini 2022",
     "Parcial I/Parcial I/Pico CTF 2019",
     "Parcial I/Parcial I/Pico CTF 2021",
-    "Parcial I/Parcial I",
-    "Parcial I",
-    "Parcial I.tar.gz"
+    "Parcial I/Parcial I"
   ]
 }
